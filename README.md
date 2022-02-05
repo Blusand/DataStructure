@@ -22,4 +22,12 @@ L.data = (ElenType*)malloc(sizeof(ElemType) * MaxSize); // C的初始动态分�
 ```
 使用时注意即可
 
-[b站视频地址](https://www.bilibili.com/video/BV1b7411N798?share_source=copy_web)
+---
+
+## B站视频
+
+<p align="center">
+    <iframe src="//player.bilibili.com/player.html?aid=92191094&bvid=BV1b7411N798&cid=235888729&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+</p>
+
+---
